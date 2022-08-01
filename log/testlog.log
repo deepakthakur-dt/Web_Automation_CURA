@@ -1,0 +1,287 @@
+2022-06-14 16:20:11,805 - ebanking -INFO - URL is opened
+2022-06-14 16:20:11,889 - ebanking -INFO - Entered username
+2022-06-14 16:20:11,954 - ebanking -INFO - Entered password
+2022-06-14 16:20:44,015 - ebanking -INFO - URL is opened
+2022-06-14 16:20:44,101 - ebanking -INFO - Entered username
+2022-06-14 16:20:44,169 - ebanking -INFO - Entered password
+2022-06-14 16:20:44,247 - ebanking -INFO - Login test passed
+2022-06-14 17:27:18,048 - ebanking -INFO - logged in to home page
+2022-06-14 17:28:01,295 - ebanking -INFO - logged in to home page
+2022-06-14 17:31:05,768 - ebanking -INFO - logged in to home page
+2022-06-14 17:37:11,338 - ebanking -INFO - logged in to home page
+2022-06-14 17:39:27,737 - ebanking -INFO - logged in to home page
+2022-06-14 17:48:25,981 - ebanking -INFO - logged in to home page
+2022-06-14 17:48:26,087 - ebanking -INFO - selected 3 items
+2022-06-14 17:48:26,141 - ebanking -INFO - clicked on cart button
+2022-06-14 17:48:26,185 - ebanking -INFO - second item removed
+2022-06-14 17:48:26,221 - ebanking -INFO - Proceed to checkout
+2022-06-14 17:48:26,409 - ebanking -INFO - filled the details and clicked on continue.
+2022-06-14 18:48:48,561 - ebanking -INFO - URL is opened
+2022-06-14 18:48:48,700 - ebanking -INFO - Entered username
+2022-06-14 18:48:48,815 - ebanking -INFO - Entered password
+2022-06-14 18:48:48,985 - ebanking -INFO - Login test passed
+2022-06-14 18:48:51,022 - ebanking -INFO - logged in to home page
+2022-06-14 18:48:51,366 - ebanking -INFO - selected 3 items
+2022-06-14 18:48:51,458 - ebanking -INFO - clicked on cart button
+2022-06-14 18:48:51,521 - ebanking -INFO - second item removed
+2022-06-14 18:48:51,599 - ebanking -INFO - Proceed to checkout
+2022-06-14 18:48:52,054 - ebanking -INFO - filled the details and clicked on continue.
+2022-06-14 18:50:29,513 - ebanking -INFO - URL is opened
+2022-06-14 18:50:29,639 - ebanking -INFO - Entered username
+2022-06-14 18:50:29,734 - ebanking -INFO - Entered password
+2022-06-14 18:50:29,741 - ebanking -INFO - Login test passed
+2022-06-14 18:51:31,733 - ebanking -INFO - URL is opened
+2022-06-14 18:51:31,879 - ebanking -INFO - Entered username
+2022-06-14 18:51:31,992 - ebanking -INFO - Entered password
+2022-06-14 18:51:32,003 - ebanking -INFO - Login test passed
+2022-06-14 18:52:45,982 - ebanking -INFO - URL is opened
+2022-06-14 18:52:46,151 - ebanking -INFO - Entered username
+2022-06-14 18:52:46,284 - ebanking -INFO - Entered password
+2022-06-14 18:52:46,548 - ebanking -INFO - Login test passed
+2022-06-14 18:52:46,767 - ebanking -INFO - selected 3 items
+2022-06-14 18:52:46,832 - ebanking -INFO - clicked on cart button
+2022-06-14 18:52:46,886 - ebanking -INFO - second item removed
+2022-06-14 18:52:46,965 - ebanking -INFO - Proceed to checkout
+2022-06-14 18:52:47,380 - ebanking -INFO - filled the details and clicked on continue.
+2022-06-14 18:52:47,448 - ebanking -INFO - Payment info is correct
+2022-06-14 18:52:47,475 - ebanking -INFO - shipping info is correct
+2022-06-14 18:56:20,128 - ebanking -INFO - URL is opened
+2022-06-14 18:56:20,318 - ebanking -INFO - Entered username
+2022-06-14 18:56:20,454 - ebanking -INFO - Entered password
+2022-06-14 18:56:20,647 - ebanking -INFO - Login test passed
+2022-06-14 18:56:20,955 - ebanking -INFO - selected 3 items
+2022-06-14 18:56:21,036 - ebanking -INFO - clicked on cart button
+2022-06-14 18:56:21,101 - ebanking -INFO - second item removed
+2022-06-14 18:56:21,179 - ebanking -INFO - Proceed to checkout
+2022-06-14 18:56:21,666 - ebanking -INFO - filled the details and clicked on continue.
+2022-06-14 18:56:21,711 - ebanking -INFO - Payment info is correct
+2022-06-14 18:56:21,741 - ebanking -INFO - shipping info is correct
+2022-06-14 19:02:06,899 - ebanking -INFO - URL is opened
+2022-06-14 19:02:07,048 - ebanking -INFO - Entered username
+2022-06-14 19:02:07,209 - ebanking -INFO - Entered password
+2022-06-14 19:02:07,360 - ebanking -INFO - Login test passed
+2022-06-14 19:02:07,628 - ebanking -INFO - selected 3 items
+2022-06-14 19:02:07,715 - ebanking -INFO - clicked on cart button
+2022-06-14 19:02:07,795 - ebanking -INFO - second item removed
+2022-06-14 19:02:07,865 - ebanking -INFO - Proceed to checkout
+2022-06-14 19:02:08,258 - ebanking -INFO - filled the details and clicked on continue.
+2022-06-14 19:02:08,314 - ebanking -INFO - Payment info is correct
+2022-06-14 19:02:08,336 - ebanking -INFO - shipping info is correct
+2022-06-14 19:02:32,570 - ebanking -INFO - URL is opened
+2022-06-14 19:02:32,754 - ebanking -INFO - Entered username
+2022-06-14 19:02:32,877 - ebanking -INFO - Entered password
+2022-06-14 19:02:33,013 - ebanking -INFO - Login test passed
+2022-06-14 19:02:33,305 - ebanking -INFO - selected 3 items
+2022-06-14 19:02:33,390 - ebanking -INFO - clicked on cart button
+2022-06-14 19:02:33,449 - ebanking -INFO - second item removed
+2022-06-14 19:02:33,520 - ebanking -INFO - Proceed to checkout
+2022-06-14 19:02:33,978 - ebanking -INFO - filled the details and clicked on continue.
+2022-06-14 19:02:34,027 - ebanking -INFO - Payment info is correct
+2022-06-14 19:02:34,075 - ebanking -INFO - shipping info is correct
+2022-06-14 19:03:05,618 - ebanking -INFO - URL is opened
+2022-06-14 19:03:05,760 - ebanking -INFO - Entered username
+2022-06-14 19:03:05,863 - ebanking -INFO - Entered password
+2022-06-14 19:03:06,006 - ebanking -INFO - Login test passed
+2022-06-14 19:03:06,326 - ebanking -INFO - selected 3 items
+2022-06-14 19:03:06,397 - ebanking -INFO - clicked on cart button
+2022-06-14 19:03:06,459 - ebanking -INFO - second item removed
+2022-06-14 19:03:06,531 - ebanking -INFO - Proceed to checkout
+2022-06-14 19:03:06,976 - ebanking -INFO - filled the details and clicked on continue.
+2022-06-14 19:03:07,028 - ebanking -INFO - Payment info is correct
+2022-06-14 19:03:07,068 - ebanking -INFO - shipping info is correct
+2022-06-14 19:03:07,098 - ebanking -INFO - price info is correct
+2022-06-14 19:03:07,164 - ebanking -INFO - clicked on finish  button
+2022-06-14 19:03:07,195 - ebanking -INFO - Succesfully placed the order and verified the message
+2022-06-14 19:03:07,237 - ebanking -INFO - logo Verified
+2022-06-14 19:05:42,806 - ebanking -INFO - URL is opened
+2022-06-14 19:05:42,968 - ebanking -INFO - Entered username
+2022-06-14 19:05:43,078 - ebanking -INFO - Entered password
+2022-06-14 19:05:43,234 - ebanking -INFO - Login test passed
+2022-06-14 19:05:43,550 - ebanking -INFO - selected 3 items
+2022-06-14 19:05:43,634 - ebanking -INFO - clicked on cart button
+2022-06-14 19:05:43,695 - ebanking -INFO - second item removed
+2022-06-14 19:05:43,777 - ebanking -INFO - Proceed to checkout
+2022-06-14 19:05:44,206 - ebanking -INFO - filled the details and clicked on continue.
+2022-06-14 19:05:44,248 - ebanking -INFO - Payment info is correct
+2022-06-14 19:05:44,291 - ebanking -INFO - shipping info is correct
+2022-06-14 19:05:44,313 - ebanking -INFO - price info is correct
+2022-06-14 19:05:44,373 - ebanking -INFO - clicked on finish  button
+2022-06-14 19:05:44,404 - ebanking -INFO - Succesfully placed the order and verified the message
+2022-06-14 19:05:44,444 - ebanking -INFO - logo Verified
+2022-06-14 19:09:36,181 - ebanking -INFO - URL is opened
+2022-06-14 19:09:36,379 - ebanking -INFO - Entered username
+2022-06-14 19:09:36,483 - ebanking -INFO - Entered password
+2022-06-14 19:09:36,632 - ebanking -INFO - Login test passed
+2022-06-14 19:09:36,916 - ebanking -INFO - selected 3 items
+2022-06-14 19:09:37,003 - ebanking -INFO - clicked on cart button
+2022-06-14 19:09:37,081 - ebanking -INFO - second item removed
+2022-06-14 19:09:37,161 - ebanking -INFO - Proceed to checkout
+2022-06-14 19:09:37,572 - ebanking -INFO - filled the details and clicked on continue.
+2022-06-14 19:09:37,646 - ebanking -INFO - Payment info is correct
+2022-06-14 19:09:37,672 - ebanking -INFO - shipping info is correct
+2022-06-14 19:09:37,720 - ebanking -INFO - price info is correct
+2022-06-14 19:09:37,797 - ebanking -INFO - clicked on finish  button
+2022-06-14 19:09:37,833 - ebanking -INFO - Succesfully placed the order and verified the message
+2022-06-14 19:09:37,884 - ebanking -INFO - logo Verified
+2022-07-28 17:03:56,975 - ebanking -INFO - URL is opened
+2022-07-28 17:03:57,063 - ebanking -INFO - Entered username
+2022-07-28 17:03:57,124 - ebanking -INFO - Entered password
+2022-07-28 17:03:57,251 - ebanking -INFO - Login test passed
+2022-07-28 17:03:57,438 - ebanking -INFO - selected 3 items
+2022-07-28 17:03:57,485 - ebanking -INFO - clicked on cart button
+2022-07-28 17:03:57,522 - ebanking -INFO - second item removed
+2022-07-28 17:03:57,562 - ebanking -INFO - Proceed to checkout
+2022-07-28 17:03:57,799 - ebanking -INFO - filled the details and clicked on continue.
+2022-07-28 17:03:57,831 - ebanking -INFO - Payment info is correct
+2022-07-28 17:03:57,846 - ebanking -INFO - shipping info is correct
+2022-07-28 17:03:57,862 - ebanking -INFO - price info is correct
+2022-07-28 17:03:57,908 - ebanking -INFO - clicked on finish  button
+2022-07-28 17:03:57,929 - ebanking -INFO - Succesfully placed the order and verified the message
+2022-07-28 17:03:57,959 - ebanking -INFO - logo Verified
+2022-08-01 12:09:23,525 - Healthcare -INFO - URL is opened
+2022-08-01 12:09:23,642 - Healthcare -INFO - Clicked on side bar
+2022-08-01 12:09:24,185 - Healthcare -INFO - clicked on side bar login
+2022-08-01 12:09:24,299 - Healthcare -INFO - Entered username
+2022-08-01 12:09:24,414 - Healthcare -INFO - Entered password
+2022-08-01 12:13:50,736 - Healthcare -INFO - URL is opened
+2022-08-01 12:13:50,858 - Healthcare -INFO - Clicked on side bar
+2022-08-01 12:13:51,390 - Healthcare -INFO - clicked on side bar login
+2022-08-01 12:13:51,506 - Healthcare -INFO - Entered username
+2022-08-01 12:13:51,663 - Healthcare -INFO - Entered password
+2022-08-01 12:13:52,787 - Healthcare -INFO - Login test passed
+2022-08-01 12:44:36,234 - Healthcare -INFO - URL is opened
+2022-08-01 12:44:36,375 - Healthcare -INFO - Clicked on side bar
+2022-08-01 12:44:36,863 - Healthcare -INFO - clicked on side bar login
+2022-08-01 12:44:36,965 - Healthcare -INFO - Entered username
+2022-08-01 12:44:37,079 - Healthcare -INFO - Entered password
+2022-08-01 12:44:37,868 - Healthcare -INFO - Login test passed
+2022-08-01 12:44:37,953 - Healthcare -INFO - clicked the checkbox
+2022-08-01 12:44:38,109 - Healthcare -INFO - Entered the date
+2022-08-01 12:44:38,185 - Healthcare -INFO - Entered the required comment
+2022-08-01 12:44:38,691 - Healthcare -INFO - Clicked on appointment button
+2022-08-01 12:44:38,745 - Healthcare -INFO - Appointment has been scheduled
+2022-08-01 12:45:24,941 - Healthcare -INFO - URL is opened
+2022-08-01 12:45:25,069 - Healthcare -INFO - Clicked on side bar
+2022-08-01 12:45:25,677 - Healthcare -INFO - clicked on side bar login
+2022-08-01 12:45:25,807 - Healthcare -INFO - Entered username
+2022-08-01 12:45:25,935 - Healthcare -INFO - Entered password
+2022-08-01 12:45:26,891 - Healthcare -INFO - clicked the checkbox
+2022-08-01 12:45:27,065 - Healthcare -INFO - Entered the date
+2022-08-01 12:45:27,174 - Healthcare -INFO - Entered the required comment
+2022-08-01 12:45:27,575 - Healthcare -INFO - Clicked on appointment button
+2022-08-01 12:45:27,644 - Healthcare -INFO - Appointment has been scheduled
+2022-08-01 12:51:48,799 - Healthcare -INFO - URL is opened
+2022-08-01 12:51:48,964 - Healthcare -INFO - Clicked on side bar
+2022-08-01 12:51:49,411 - Healthcare -INFO - clicked on side bar login
+2022-08-01 12:51:49,535 - Healthcare -INFO - Entered username
+2022-08-01 12:51:49,678 - Healthcare -INFO - Entered password
+2022-08-01 12:51:50,598 - Healthcare -INFO - clicked the checkbox
+2022-08-01 12:51:50,785 - Healthcare -INFO - Entered the date
+2022-08-01 12:51:50,880 - Healthcare -INFO - Entered the required comment
+2022-08-01 12:51:51,244 - Healthcare -INFO - Clicked on appointment button
+2022-08-01 12:51:51,337 - Healthcare -INFO - Appointment has been scheduled
+2022-08-01 12:53:25,317 - Healthcare -INFO - URL is opened
+2022-08-01 12:53:25,432 - Healthcare -INFO - Clicked on side bar
+2022-08-01 12:53:25,911 - Healthcare -INFO - clicked on side bar login
+2022-08-01 12:53:26,034 - Healthcare -INFO - Entered username
+2022-08-01 12:53:26,163 - Healthcare -INFO - Entered password
+2022-08-01 12:53:27,181 - Healthcare -INFO - clicked the checkbox
+2022-08-01 12:53:27,399 - Healthcare -INFO - Entered the date
+2022-08-01 12:53:27,506 - Healthcare -INFO - Entered the required comment
+2022-08-01 12:53:27,927 - Healthcare -INFO - Clicked on appointment button
+2022-08-01 12:53:28,000 - Healthcare -INFO - Appointment has been scheduled
+2022-08-01 12:54:14,347 - Healthcare -INFO - URL is opened
+2022-08-01 12:54:14,487 - Healthcare -INFO - Clicked on side bar
+2022-08-01 12:54:15,040 - Healthcare -INFO - clicked on side bar login
+2022-08-01 12:54:15,200 - Healthcare -INFO - Entered username
+2022-08-01 12:54:15,327 - Healthcare -INFO - Entered password
+2022-08-01 12:54:16,205 - Healthcare -INFO - Login test passed
+2022-08-01 12:54:35,673 - Healthcare -INFO - URL is opened
+2022-08-01 12:54:35,775 - Healthcare -INFO - Clicked on side bar
+2022-08-01 12:54:36,404 - Healthcare -INFO - clicked on side bar login
+2022-08-01 12:54:36,526 - Healthcare -INFO - Entered username
+2022-08-01 12:54:36,656 - Healthcare -INFO - Entered password
+2022-08-01 12:55:16,680 - Healthcare -INFO - URL is opened
+2022-08-01 12:55:16,821 - Healthcare -INFO - Clicked on side bar
+2022-08-01 12:55:17,448 - Healthcare -INFO - clicked on side bar login
+2022-08-01 12:55:17,649 - Healthcare -INFO - Entered username
+2022-08-01 12:55:17,803 - Healthcare -INFO - Entered password
+2022-08-01 12:55:18,770 - Healthcare -INFO - clicked the checkbox
+2022-08-01 12:55:18,969 - Healthcare -INFO - Entered the date
+2022-08-01 12:55:19,073 - Healthcare -INFO - Entered the required comment
+2022-08-01 12:55:19,538 - Healthcare -INFO - Clicked on appointment button
+2022-08-01 12:55:19,617 - Healthcare -INFO - Appointment has been scheduled
+2022-08-01 13:08:42,057 - Healthcare -INFO - URL is opened
+2022-08-01 13:08:42,121 - Healthcare -INFO - Clicked on side bar
+2022-08-01 13:08:42,466 - Healthcare -INFO - clicked on side bar login
+2022-08-01 13:08:42,518 - Healthcare -INFO - Entered username
+2022-08-01 13:08:42,591 - Healthcare -INFO - Entered password
+2022-08-01 13:09:12,185 - Healthcare -INFO - URL is opened
+2022-08-01 13:09:12,265 - Healthcare -INFO - Clicked on side bar
+2022-08-01 13:09:12,630 - Healthcare -INFO - clicked on side bar login
+2022-08-01 13:09:12,687 - Healthcare -INFO - Entered username
+2022-08-01 13:09:12,754 - Healthcare -INFO - Entered password
+2022-08-01 13:09:13,348 - Healthcare -INFO - Login test passed
+2022-08-01 13:09:52,696 - Healthcare -INFO - clicked the checkbox
+2022-08-01 13:09:52,783 - Healthcare -INFO - Entered the date
+2022-08-01 13:09:52,844 - Healthcare -INFO - Entered the required comment
+2022-08-01 13:09:53,153 - Healthcare -INFO - Clicked on appointment button
+2022-08-01 13:09:53,204 - Healthcare -INFO - Appointment has been scheduled
+2022-08-01 13:10:37,122 - Healthcare -INFO - URL is opened
+2022-08-01 13:10:37,186 - Healthcare -INFO - Clicked on side bar
+2022-08-01 13:10:37,800 - Healthcare -INFO - clicked on side bar login
+2022-08-01 13:10:37,857 - Healthcare -INFO - Entered username
+2022-08-01 13:10:37,917 - Healthcare -INFO - Entered password
+2022-08-01 13:10:38,795 - Healthcare -INFO - Login test passed
+2022-08-01 13:14:07,755 - Healthcare -INFO - URL is opened
+2022-08-01 13:14:07,817 - Healthcare -INFO - Clicked on side bar
+2022-08-01 13:14:08,172 - Healthcare -INFO - clicked on side bar login
+2022-08-01 13:14:08,231 - Healthcare -INFO - Entered username
+2022-08-01 13:14:08,316 - Healthcare -INFO - Entered password
+2022-08-01 13:14:08,884 - Healthcare -INFO - Login test passed
+2022-08-01 13:20:48,143 - Healthcare -INFO - clicked the checkbox
+2022-08-01 13:20:48,254 - Healthcare -INFO - Entered the date
+2022-08-01 13:20:48,304 - Healthcare -INFO - Entered the required comment
+2022-08-01 13:20:48,610 - Healthcare -INFO - Clicked on appointment button
+2022-08-01 13:20:48,641 - Healthcare -INFO - Appointment has been scheduled
+2022-08-01 13:21:04,833 - Healthcare -INFO - URL is opened
+2022-08-01 13:21:04,911 - Healthcare -INFO - Clicked on side bar
+2022-08-01 13:21:05,287 - Healthcare -INFO - clicked on side bar login
+2022-08-01 13:21:05,341 - Healthcare -INFO - Entered username
+2022-08-01 13:21:05,410 - Healthcare -INFO - Entered password
+2022-08-01 13:21:06,074 - Healthcare -INFO - Login test passed
+2022-08-01 16:26:03,134 - Healthcare -INFO - URL is opened
+2022-08-01 16:26:03,282 - Healthcare -INFO - Clicked on side bar
+2022-08-01 16:26:04,071 - Healthcare -INFO - clicked on side bar login
+2022-08-01 16:26:04,244 - Healthcare -INFO - Entered username
+2022-08-01 16:26:04,390 - Healthcare -INFO - Entered password
+2022-08-01 16:26:05,461 - Healthcare -INFO - Login test passed
+2022-08-01 16:26:15,743 - Healthcare -INFO - clicked the checkbox
+2022-08-01 16:26:15,931 - Healthcare -INFO - Entered the date
+2022-08-01 16:26:16,063 - Healthcare -INFO - Entered the required comment
+2022-08-01 16:26:16,542 - Healthcare -INFO - Clicked on appointment button
+2022-08-01 16:26:16,629 - Healthcare -INFO - Appointment has been scheduled
+2022-08-01 16:26:49,169 - Healthcare -INFO - URL is opened
+2022-08-01 16:26:49,319 - Healthcare -INFO - Clicked on side bar
+2022-08-01 16:26:49,823 - Healthcare -INFO - clicked on side bar login
+2022-08-01 16:26:49,991 - Healthcare -INFO - Entered username
+2022-08-01 16:26:50,158 - Healthcare -INFO - Entered password
+2022-08-01 16:26:58,500 - Healthcare -INFO - clicked the checkbox
+2022-08-01 16:26:58,662 - Healthcare -INFO - Entered the date
+2022-08-01 16:26:58,756 - Healthcare -INFO - Entered the required comment
+2022-08-01 16:27:00,284 - Healthcare -INFO - Clicked on appointment button
+2022-08-01 16:27:00,384 - Healthcare -INFO - Appointment has been scheduled
+2022-08-01 16:49:34,379 - Healthcare -INFO - clicked on history
+2022-08-01 16:50:13,003 - Healthcare -INFO - clicked on history
+2022-08-01 16:53:50,079 - Healthcare -INFO - clicked on history
+2022-08-01 16:54:55,170 - Healthcare -INFO - URL is opened
+2022-08-01 16:54:55,298 - Healthcare -INFO - Clicked on side bar
+2022-08-01 16:54:55,849 - Healthcare -INFO - clicked on side bar login
+2022-08-01 16:54:55,962 - Healthcare -INFO - Entered username
+2022-08-01 16:54:56,100 - Healthcare -INFO - Entered password
+2022-08-01 16:55:03,443 - Healthcare -INFO - clicked the checkbox
+2022-08-01 16:55:03,615 - Healthcare -INFO - Entered the date
+2022-08-01 16:55:03,743 - Healthcare -INFO - Entered the required comment
+2022-08-01 16:55:04,237 - Healthcare -INFO - Clicked on appointment button
+2022-08-01 16:55:04,319 - Healthcare -INFO - Appointment has been scheduled
+2022-08-01 16:55:11,827 - Healthcare -INFO - clicked on history
