@@ -22,6 +22,13 @@ WebDriver driver;
 	@FindBy(xpath="//*[@id=\"history\"]/div/div[2]/div")
 	List<WebElement> cards;
 	
+	@FindBy(xpath="//*[@id=\"history\"]/div/div[2]/div[1]/div/div[1]")
+	WebElement appointmentDate;
+	
+	@FindBy(xpath="//*[@id=\"history\"]/div/div[2]/div[1]/div/div[2]/div[2]/p")
+	WebElement facilityName;
+	
+	
 	public void history() {
 		historyBtn.click();
 	}
@@ -31,5 +38,11 @@ WebDriver driver;
 		System.out.println("Appointment present: " +cards.size());
 		return cards.size();
 	}
+	
+	public void recentAppointmentAndFacilityName() {
+		System.out.println("Recent made appointment Date & Facility name:" +appointmentDate.getText() +" " +facilityName.getText()); 
+	}
+	
+	
 
 }

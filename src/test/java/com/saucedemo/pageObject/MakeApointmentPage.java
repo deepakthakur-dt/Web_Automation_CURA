@@ -28,6 +28,9 @@ WebDriver driver;
 	@FindBy(xpath="//*[@class=\"col-xs-12 text-center\"]/p")
 	WebElement verifyAppointment;
 	
+	@FindBy(xpath="//*[@class=\"btn btn-default\"]")
+	WebElement backToHomePageBtn;
+	
 	public void checkBox() {
 		checkBox.click();
 	}
@@ -47,6 +50,10 @@ WebDriver driver;
 	public String getAppointmentInfo() {
 		String appointmentinfo = verifyAppointment.getText();
 		return appointmentinfo;
+	}
+	
+	public void backToHomePageBtn() {
+		backToHomePageBtn.click();
 	}
 
 }

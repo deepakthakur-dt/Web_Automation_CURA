@@ -285,3 +285,23 @@
 2022-08-01 16:55:04,237 - Healthcare -INFO - Clicked on appointment button
 2022-08-01 16:55:04,319 - Healthcare -INFO - Appointment has been scheduled
 2022-08-01 16:55:11,827 - Healthcare -INFO - clicked on history
+2022-08-02 17:28:17,537 - Healthcare -INFO - URL is opened
+2022-08-02 17:28:17,676 - Healthcare -INFO - Clicked on side bar
+2022-08-02 17:28:18,162 - Healthcare -INFO - clicked on side bar login
+2022-08-02 17:28:18,252 - Healthcare -INFO - Entered username
+2022-08-02 17:28:18,362 - Healthcare -INFO - Entered password
+2022-08-02 17:28:19,012 - Healthcare -INFO - Login test passed
+2022-08-02 17:28:26,275 - Healthcare -INFO - clicked the checkbox
+2022-08-02 17:28:26,481 - Healthcare -INFO - Entered the date
+2022-08-02 17:28:26,599 - Healthcare -INFO - Entered the required comment
+2022-08-02 17:28:27,026 - Healthcare -INFO - Clicked on appointment button
+2022-08-02 17:28:27,109 - Healthcare -INFO - Appointment has been scheduled
+2022-08-02 17:28:34,193 - Healthcare -INFO - clicked on history
+2022-08-03 17:39:59,754 - Healthcare -INFO - clicked on history
+2022-08-03 17:40:57,124 - Healthcare -INFO - clicked on history
+2022-08-03 18:04:42,038 - Healthcare -INFO - Making 2nd appointment
+2022-08-03 18:04:43,050 - Healthcare -INFO - clicked on history
+2022-08-03 18:08:51,263 - Healthcare -INFO - Making 2nd appointment
+2022-08-03 18:08:52,108 - Healthcare -INFO - clicked on history
+2022-08-03 18:10:12,741 - Healthcare -INFO - Making 2nd appointment
+2022-08-03 18:10:13,684 - Healthcare -INFO - clicked on history
